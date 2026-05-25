@@ -1,1 +1,4 @@
 **/cst8359.txt
+bin/
+obj/
+.vs/
