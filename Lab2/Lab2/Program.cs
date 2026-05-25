@@ -146,7 +146,7 @@ namespace Lab2
         // prints the menu
         static void ShowMenu()
         {
-            Console.WriteLine("===== Lab 2 Menu =====");
+            Console.WriteLine("-- Lab 1 Menu --");
             Console.WriteLine("(1) Import Words from File");
             Console.WriteLine("(2) Bubble Sort");
             Console.WriteLine("(3) LINQ Sort");
